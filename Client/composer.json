@@ -1,0 +1,15 @@
+{
+  "name": "/",
+  "description": "",
+  "minimum-stability": "dev",
+  "license": "",
+  "authors": [
+    {
+      "name": "Sascha Vis",
+      "email": "saschavis@gmail.com"
+    }
+  ],
+  "require": {
+    "textalk/websocket": "dev-master"
+  }
+}
