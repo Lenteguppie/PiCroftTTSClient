@@ -8,7 +8,7 @@ echo 'Message sent: ' . $message;
 require('vendor/autoload.php');
 use WebSocket\Client;
 
-$client = new Client("ws://192.168.86.56:8181/core");
+$client = new Client("ws://192.168.137.66:8181/core");
 
 
 
