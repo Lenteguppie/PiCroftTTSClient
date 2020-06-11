@@ -42,4 +42,13 @@ To let Mycroft speak out your message, you need to send a message in JSON format
 ```
 To let Mycroft speak the message the type must be "speak". After the utterance tag, you need to put your message.
 
-The default address where you need to send the JSON message to is "ws://[YOUR LOCAL MYCROFT IP]:8181/core". You can find your Mycroft IP in your router.
+The default address where you need to send the JSON message to is 
+``` 
+ws://[YOUR LOCAL MYCROFT IP]:8181/core
+```
+You can find your local Mycroft IP in your router.
+
+## Result:
+[![Mycroft mobile TTS client](https://yt-embed.herokuapp.com/embed?v=Ey4miKTGQSc)](https://www.youtube.com/watch?v=Ey4miKTGQSc)
+
+
